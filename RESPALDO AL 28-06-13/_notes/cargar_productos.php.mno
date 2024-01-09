@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_subgrupo" value="name:id_subgrupo;datatype:int,name:nombre;datatype:string,name:descrpcion;datatype:string,name:grupo;datatype:int" />
+</info>
